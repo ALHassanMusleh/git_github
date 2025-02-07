@@ -14,6 +14,7 @@ main() {
   runApp(MyApp());
 }
 
+/// Added comments to new commit
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 

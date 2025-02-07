@@ -26,8 +26,8 @@ class XOButton extends StatelessWidget {
             symbol,
             style: const TextStyle(
               fontWeight: FontWeight.bold,
-              fontSize: 30,
-              color: Colors.white,
+              fontSize: 32,
+              color: Colors.red,
             ),
           ),
         ),

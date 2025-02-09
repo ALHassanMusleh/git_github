@@ -26,6 +26,7 @@ class CalculatorButton extends StatelessWidget {
             digit,
             style: TextStyle(
               fontSize: 30,
+              color: Colors.red,
             ),
           ),
         ),

@@ -20,12 +20,12 @@ class CalculatorButton extends StatelessWidget {
             foregroundColor: Colors.white,
           ),
           onPressed: () {
-            onClick(digit);
+            onClick("digit");
           },
           child: Text(
             digit,
             style: TextStyle(
-              fontSize: 32,
+              fontSize: 34,
               color: Colors.red,
             ),
           ),
